@@ -5,6 +5,9 @@
 ![ec2_create](screenshots/img/ec2_create.jpg)
 3. RDS作成
 ![RDS_create](screenshots/img/RDS_create.jpg)
+- RDSのサブネット
+![db_subnet_gp1](screenshots/img/db_subnet_gp1.jpg)
+![db_subnet_gp2](screenshots/img/db_subnet_gp2.jpg)
 4. EC2のセキュリティグループ
 ![ec2_sg](screenshots/img/ec2_sg.jpg)
 5. RDSのセキュリティグループ
