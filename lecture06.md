@@ -26,7 +26,7 @@ UnHealthyHostCount詳細
 
 * 今までに作成したリソースの見積もり
 
-https://calculator.aws/#/estimate?id=36d745b1279ed318e753b123044752f3feff094e
+https://calculator.aws/#/estimate?id=aae22e05a219db26a5b6f3a2e36b2ef29cac2c3b
 
 * 現在の利用料
 ![](screenshots/img/Usage-fee.jpg)
